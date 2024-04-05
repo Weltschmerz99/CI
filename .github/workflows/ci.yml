@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-      - pipeline-BC-tasknumber
+      - pipline-BC-tasknumber
 
 jobs:
   test:
